@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '40191'
     url: http://www.gutenberg.org/2009/agents/40191
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39734#The-Life-of-Philip-Melanchthon
 gutenberg_issued: '2012-05-19'
 gutenberg_type: Text
 identifiers:

@@ -1,0 +1,35 @@
+_repo: The-Life-of-Philip-Melanchthon_39734
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Krotel, Gottlob Frederick
+    birthdate: 1826
+    deathdate: 1907
+    gutenberg_agent_id: '40192'
+    url: http://www.gutenberg.org/2009/agents/40192
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ledderhose, Karl Friedrich
+    alias: Ledderhose, Carl Friedrich
+    birthdate: 1806
+    deathdate: 1890
+    gutenberg_agent_id: '40191'
+    url: http://www.gutenberg.org/2009/agents/40191
+description: ''
+gutenberg_issued: '2012-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39734'
+  lccn: '22011423'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Melanchthon, Philipp, 1497-1560'
+- !lcc 'BR'
+title: The Life of Philip Melanchthon
+url: http://www.gutenberg.org/ebooks/39734
